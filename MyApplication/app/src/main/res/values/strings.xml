@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="intent_service">Intent service</string>
+    <string name="alarm_manager">Alarm</string>
+    <string name="storage">Database</string>
+
+    <string name="start_counting">Start</string>
+    <string name="stop_counting">Stop</string>
+    <string name="update_value">Update</string>
+</resources>
